@@ -64,12 +64,60 @@ class Resume extends Component {
 
          <div className="nine columns main-col">
 
-            <p>{skillmessage}
-            </p>
 
 				<div className="bars">
 				   <ul className="skills">
-					  {skills}
+             <li>
+               <span>
+                 <strong>Programming Languages: </strong>
+               </span>
+               <em>Python, Java, C, BASH, SQL, Shell Scripting, JavaScript, HTML, CSS, PHP, Bootstrap </em>
+             </li>
+             <li>
+               <span>
+                 <strong>Web Technologies: </strong>
+               </span>
+               <em>JavaScript, HTML/HTML 5, CSS 3, RESTful Web Services, XML, Google API’s, JSON</em>
+             </li>
+             <li>
+               <span>
+                 <strong>Frameworks: </strong>
+               </span>
+               <em>React JS, Spring MVC, Flask, Laravel, Bootstrap 4/5</em>
+             </li>
+             <li>
+               <span>
+                 <strong>Database: </strong>
+               </span>
+               <em>MySQL, MS SQL Server, Oracle, MongoDB</em>
+             </li>
+             <li>
+               <span>
+                 <strong>Libraries: </strong>
+               </span>
+               <em>Sklearn, NumPy, Pandas, matplotlib, Junit</em>
+             </li>
+             <li>
+               <span>
+                 <strong>Operating Systems: </strong>
+               </span>
+               <em>Linux, Windows</em>
+             </li>
+             <li>
+               <span>
+                 <strong>Cloud Services: </strong>
+               </span>
+               <em>AWS, Microsoft Azure, IBM Cloud (Bluemix) </em>
+             </li>
+             <li>
+               <span>
+                 <strong>Tools: </strong>
+               </span>
+               <em>Visual Studio, gcc/gdb, Git, Bitbucket, MSSQL, Selenium, Jira, WordPress, SharePoint, MSP 2013</em>
+             </li>
+
+             
+					  {/* {skills} */}
 					</ul>
 				</div>
 			</div>

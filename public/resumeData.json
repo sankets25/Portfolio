@@ -72,39 +72,35 @@
     ],
     "skills":[
       {
-        "name":"Git",
-        "level":"60%"
+        "name": "Programming Languages: ",
+        "list": "Python, JAVA, SQL, PHP, C, C++."
       },
       {
-        "name":"Illustrator",
-        "level":"55%"
+        "name": "Frameworks: ",
+        "list": "AngularJS, Angular 2/5/9, React JS, Flask, Laravel, Bootstrap 4/5."
       },
       {
-        "name":"ReactJs",
-        "level":"50%"
+        "name": "Web Technologies: ",
+        "list": "JavaScript, HTML/HTML 5, CSS 3, TypeScript, Jasmine, Karma, RESTful Web Services, jQuery, XML, Google API’s, JSON, ML Tools (NumPy, Pandas, Keras, SciPy, Scikit-learn)."
       },
       {
-        "name":"CSS",
-        "level":"90%"
+        "name": "Database: ",
+        "list": "MySQL, Google Cloud Datastore, MongoDB, Amazon RDS, Redis."
       },
       {
-        "name":"HTML5",
-        "level":"80%"
+        "name": "Cloud Services: ",
+        "list": "AWS, Microsoft Azure, Google Cloud Platform, IBM Cloud (Bluemix)."
       },
       {
-        "name":"VueJs",
-        "level":"50%"
-      },
-      {
-        "name":"MongoDB",
-        "level":"80%"
+        "name": "Tools/Software: ",
+        "list": "Visual Studio Code, Eclipse IDE, GitHub, Git, Jenkins, VSTS, Jupyter Notebook, PyCharm."
       }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
+        "title":"Restaurant Chain Website",
         "category":"My Travel Blog for my post-university travels",
         "image":"canadian-wanderlust.jpg",
         "url":"https://www.canadianwanderlust.com"
