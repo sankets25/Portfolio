@@ -101,25 +101,25 @@
     "projects": [
       {
         "title":"Restaurant Chain Website",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
+        "category":"Dynamic Responsive Restaurant website: Laravel, PHP, JavaScript, CSS, HTML, Bootstrap 5",
+        "image":"burger.jpg",
         "url":"https://www.canadianwanderlust.com"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Portable File System of size 33 MB (C, gcc/gdb, Linux)",
+        "category":"Programmed user space portable File System which allows users to create file system of 33 MB drive space in a disk image",
+        "image":"FS.png",
+        "url":"https://github.com/sankets25/File-System"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
+        "title":"Naive Bayes Classifier (Python)",
+        "category":"Implemented Multivariate Naive Bayes Algorithm in python using pandas and NumPy library",
         "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "url":""
       },
       {
         "title":"Resume Website",
-        "category":"A React based resume website template",
+        "category":"A React based resume website",
         "image":"resume-website.jpg",
         "url":"http://www.timbakerdev.com"
       },
