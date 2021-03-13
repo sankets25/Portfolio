@@ -10,6 +10,7 @@ import Resume from './Components/Resume';
 // import Testimonials from './Components/Testimonials';
 import Portfolio from './Components/Portfolio';
 
+
 class App extends Component {
 
   constructor(props){
@@ -42,7 +43,7 @@ class App extends Component {
   componentDidMount(){
     this.getResumeData();
   }
-
+ 
   render() {
     return (
       <div className="App">

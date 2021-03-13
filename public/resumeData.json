@@ -64,7 +64,7 @@
       {
         "company":"AtoS Global IT Solutions- Mumbai, India",
         "title":"Software Engineer",
-        "years":"July 2017- - June 2019",
+        "years":"July 2017-June 2019",
         "description":"• Worked on development and enhancement of JAVA applications to store client’s required data and providing client the privilege to modify existing data using Agile Methodology",
         "description2":"• Engaged in problem solving along with monitoring performance tasks on new and existing Java applications by debugging, patch deployment at front- end and back-end processes including test planning, test case design and functional testing",
         "description3":"• Assisted the project manager in leading the team and helped to decrease the overall defects count by 20% and provided 25+ root cause analyses to resolve bugs and improve overall performance of the application"
@@ -114,20 +114,14 @@
       {
         "title":"Naive Bayes Classifier (Python)",
         "category":"Implemented Multivariate Naive Bayes Algorithm in python using pandas and NumPy library",
-        "image":"original-thai-food.jpg",
-        "url":""
+        "image":"nbc.jpg",
+        "url":"https://github.com/sankets25/Naive-Bayes-Classifier"
       },
       {
         "title":"Resume Website",
         "category":"A React based resume website",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "image":"sanket.png",
+        "url":"https://sanket-salunke.herokuapp.com/"
       }
     ]
   }
