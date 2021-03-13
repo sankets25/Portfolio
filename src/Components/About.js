@@ -43,6 +43,10 @@ class About extends Component {
                      {/* <a href={resumeDownload} className="button"><i className="fa fa-download"></i>Download Resume</a> */}
                      <a href={resumeDownload} className="button" download ="Sanket_Salunke"><i className="fa fa-download" aria-hidden="true"/>Download Resume</a>
                   </p>
+                  <p>
+                     {/* <a href={resumeDownload} className="button"><i className="fa fa-download"></i>Download Resume</a> */}
+                     <a href="mailto:sankets25@gmail.com" className="button"><i className="fa fa-envelope" aria-hidden="true"/>Email</a>
+                  </p>
                </div>
             </div>
          </div>

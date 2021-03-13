@@ -27,7 +27,7 @@ class Header extends Component {
 	         <li><a className="smoothscroll" href="#resume">Resume</a></li>
             <li><a className="smoothscroll" href="#portfolio">Works</a></li>
             {/* <li><a className="smoothscroll" href="#testimonials">Testimonials</a></li> */}
-            <li><a className="smoothscroll" href="#contact">Contact</a></li>
+            {/* <li><a className="smoothscroll" href="#contact">Contact</a></li> */}
          </ul>
 
       </nav>
@@ -37,6 +37,9 @@ class Header extends Component {
             <h1 className="responsive-headline">I'm {name}.</h1>
             <h3>I'm a Graduate Computer Science student at University of Texas at Arlington| Software Developer </h3>
             <hr />
+            <a href="mailto:sankets25@gmail.com" rel="noopener noreferrer" target="_blank">
+            <i className="fa fa-envelope-square" aria-hidden="true" />
+            </a>
             <ul className="social">
                {networks}
             </ul>
