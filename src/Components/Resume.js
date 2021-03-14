@@ -71,19 +71,19 @@ class Resume extends Component {
                <span>
                  <strong>Programming Languages: </strong>
                </span>
-               <em>Python, Java, C, BASH, SQL, Shell Scripting, JavaScript, HTML, CSS, PHP, Bootstrap </em>
+               <em>Python, Java, C, PHP.</em>
              </li>
              <li>
                <span>
-                 <strong>Web Technologies: </strong>
+                 <strong>Web Technologies & Frameworks: </strong>
                </span>
-               <em>JavaScript, HTML/HTML 5, CSS 3, RESTful Web Services, XML, Google API’s, JSON</em>
+               <em>JavaScript, HTML5, CSS3, Bootstrap, Flask, ReactJS, Spring MVC, Node.js, Laravel.</em>
              </li>
              <li>
                <span>
-                 <strong>Frameworks: </strong>
+                 <strong>Database Systems: </strong>
                </span>
-               <em>React JS, Spring MVC, Flask, Laravel, Bootstrap 4/5</em>
+               <em>MySQL, MS SQL Server, Oracle Database, MongoDB, SQLite, SQL, AWS RDS.</em>
              </li>
              <li>
                <span>
@@ -93,27 +93,27 @@ class Resume extends Component {
              </li>
              <li>
                <span>
-                 <strong>Libraries: </strong>
+                 <strong>Software Testing: </strong>
                </span>
-               <em>Sklearn, NumPy, Pandas, matplotlib, Junit</em>
-             </li>
-             <li>
-               <span>
-                 <strong>Operating Systems: </strong>
-               </span>
-               <em>Linux, Windows</em>
+               <em>jUnit, PIT.</em>
              </li>
              <li>
                <span>
                  <strong>Cloud Services: </strong>
                </span>
-               <em>AWS, Microsoft Azure, IBM Cloud (Bluemix) </em>
+               <em>AWS, Microsoft Azure, IBM Cloud, Heroku</em>
              </li>
              <li>
                <span>
-                 <strong>Tools: </strong>
+                 <strong>Operating Systems: </strong>
                </span>
-               <em>Visual Studio, gcc/gdb, Git, Bitbucket, MSSQL, Selenium, Jira, WordPress, SharePoint, MSP 2013</em>
+               <em>Linux, Microsoft Windows.</em>
+             </li>
+             <li>
+               <span>
+                 <strong>Tools and other Technologies: </strong>
+               </span>
+               <em>gcc/gdb, Git, Bitbucket, Selenium, Jira, XML, Firebase, WordPress, BASH, Shell Scripting.</em>
              </li>
 
              

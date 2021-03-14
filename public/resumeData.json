@@ -73,10 +73,10 @@
     "skills":[
       {
         "name": "Programming Languages: ",
-        "list": "Python, JAVA, SQL, PHP, C, C++."
+        "list": "Python, Java, C, PHP"
       },
       {
-        "name": "Frameworks: ",
+        "name": "Web Technologies & Frameworks: ",
         "list": "AngularJS, Angular 2/5/9, React JS, Flask, Laravel, Bootstrap 4/5."
       },
       {
