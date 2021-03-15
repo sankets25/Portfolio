@@ -122,6 +122,12 @@
         "category":"A React based resume website",
         "image":"sanket.PNG",
         "url":"https://sanket-salunke.herokuapp.com/"
+      },
+      {
+        "title":"Sudoku Solver",
+        "category":"Programmed Sudoku solver game using python with Backtracking Algorithm",
+        "image":"sudoku.PNG",
+        "url":"https://github.com/sankets25/sudoku"
       }
     ]
   }
