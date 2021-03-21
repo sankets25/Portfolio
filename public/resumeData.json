@@ -121,7 +121,7 @@
         "title":"Resume Website",
         "category":"A React based resume website",
         "image":"sanket.PNG",
-        "url":"https://sanket-salunke.herokuapp.com/"
+        "url":"https://sanket-salunke.netlify.app/"
       }
     ]
   }
