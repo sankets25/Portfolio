@@ -16,6 +16,8 @@ class Resume extends Component {
             <p>{work.description}</p>
             <p>{work.description2}</p>
             <p>{work.description3}</p>
+            <p>{work.description4}</p>
+
 
         </div>
       })

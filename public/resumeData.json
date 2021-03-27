@@ -53,21 +53,25 @@
     ],
     "work":[
       {
-        "company":"Open Water Accelerator – Software Engineer Intern – Menlo Park, CA",
+        "company":"Open Water Accelerator – Menlo Park, CA",
         "title":"Software Engineer Intern",
         "years":"Sep 2020-Dec 2020",
-        "description":"• Built script to store all the economic indicator values like GDP, NFP and Retail Sales in the MySQL database by Python API requests using Python, R and React JS",
-        "description2":"• Redesigned the website with Front-end & UX team to improve the overall performance by using AWS EC2",
-        "description3":"• Collaborated with the team to develop, deploy and test dynamic and interactive Learning Management website ReactJS and Google Firebase"
+        "description":"• Developed a backend application using Flask, MySQL and API requests, which tracks actual and forecast values of economic data.",
+        "description2":"• Application calculates the standard deviation and produces a deviation graph as a widget in real-time using Python and R.",
+        "description3":"• Automated the applications in EC2 by creating a CI/CD pipeline to deploy code updates without any interruption.",
+        "description4":"• Collaborated with the team to develop, deploy and test Learning Management Application using React JS and Google Firebase."
+
 
       },
       {
         "company":"Atos - Mumbai, India",
         "title":"Software Engineer",
         "years":"July 2017-June 2019",
-        "description":"• Worked on development and enhancement of JAVA applications to store client’s required data and providing client the privilege to modify existing data using Agile Methodology",
-        "description2":"• Engaged in problem solving along with monitoring performance tasks on new and existing Java applications by debugging, patch deployment at front- end and back-end processes including test planning, test case design and functional testing",
-        "description3":"• Assisted the project manager in leading the team and helped to decrease the overall defects count by 20% and provided 25+ root cause analyses to resolve bugs and improve overall performance of the application"
+        "description":"• Designed and developed Java applications with the Agile Development principles, to store client’s required data and providing client the privilege to modify existing data.",
+        "description3":"• Engaged in problem solving along with monitoring performance tasks on new and existing Java applications by code reviews, debugging, patch deployment at front- end and back-end processes including test planning, test case design and functional testing.",
+        "description4":"• Assisted the project manager in leading the team and helped to decrease the overall defects count by 20% provided 25+ root cause analyses to resolve bugs and improve overall performance of the application",
+        "description2":"• As a SCRUM master, worked with an Agile team on a web application development using Java Spring MVC, DAO design pattern and front-end using HTML5, CSS3, Bootstrap and JavaScript."
+
       }
     ],
     "skills":[
