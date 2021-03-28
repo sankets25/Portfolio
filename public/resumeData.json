@@ -116,10 +116,10 @@
         "url":"https://github.com/sankets25/File-System"
       },
       {
-        "title":"Naive Bayes Classifier (Python)",
-        "category":"Implemented Multivariate Naive Bayes Algorithm in python using pandas and NumPy library",
-        "image":"nbc.jpg",
-        "url":"https://github.com/sankets25/Naive-Bayes-Classifier"
+        "title":"News App",
+        "category":"News-app based on Nodejs and Express. Application will pop up daily news.",
+        "image":"news.jpg",
+        "url":"https://dailynewsapp.herokuapp.com/"
       },
       {
         "title":"Resume Website",
